@@ -3,5 +3,7 @@ class Main{
     {
         System.out.println("Hello!");
         System.out.println("What's up");
+        System.out.println("Are you busy");
+        System.out.println("let's go");
     }
 }
